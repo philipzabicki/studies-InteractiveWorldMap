@@ -52,3 +52,4 @@ Projekt "Interaktywna Mapa Świata" to webowa aplikacja, któa umożliwia ona pr
 ## Skład zespołu
 - Filip Żabicki
 - Andrey Amons
+- Kuba Widuliński
